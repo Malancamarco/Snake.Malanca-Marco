@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: black;
+}
+
+#board{
+    border: 2px solid yellow;
+}
+
+h1{
+    color: white;
+}
+
+
+a{
+    color: blue;
+}
